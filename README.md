@@ -4,3 +4,7 @@ Santander Coders
 ## Salvando modificações no Git
 
 ## Salvando alterações no Git
+
+* uso do comando restore
+
+* comando git push
